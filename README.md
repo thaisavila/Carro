@@ -10,20 +10,15 @@ Este repositório contém um projeto em Python desenvolvido para praticar **Prog
 ---
 
 ## Como executar
----
-
-## Como executar
 
 1. Clone o repositório:
 ```bash
 git clone https://github.com/thaisavila/Carro.git
 ```
-
 2. Acesse a pasta:
 ```bash
 cd Carro
 ```
-
 3. Execute o arquivo ```main.py```
 ```bash
 python main.py
@@ -32,6 +27,7 @@ python main.py
 ---
 ## Saída esperada do arquivo ```main.py```
 
+<img width="517" height="307" alt="image" src="https://github.com/user-attachments/assets/dd8d0b4c-ee89-41b5-b69f-1f6b6a9abeff" />
 
 ---
 ## Autora:
