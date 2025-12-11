@@ -11,22 +11,18 @@ if __name__ == "__main__":
   # Testando Carro Inteligente
   carro_inteligente = CarroInteligente(10)
   print("Carro inteligente: ")
-  carro_inteligente.acelerar()
-  carro_inteligente.exibir_velocidade()
   carro_inteligente.estacionar()
-  print()
-
+  test_drive(carro_inteligente)
+  
   # Testando carro_esportivo
   carro_esportivo = CarroEsportivo(50)
   print("Carro esportivo: ")
   carro_esportivo.turbo()
-  carro_esportivo.exibir_velocidade()
-  carro_esportivo.freiar()
-  carro_esportivo.exibir_velocidade()
+  test_drive(carro_inteligente)
 
   # Testando Carro Corrida
   carro_corrida = CarroCorrida(100)
-
+  test_drive(carro_corrida)
 
 
 # criar uml
