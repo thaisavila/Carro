@@ -1,17 +1,18 @@
-# 🚗 Projeto Carro – Programação Orientada a Objetos (Python)
+# Carro – Programação Orientada a Objetos (Python)
 
 Este repositório contém um projeto em Python desenvolvido para praticar **Programação Orientada a Objetos (POO)**, nos conceitos de: **herança** e **polimorfismo**.
 
 ---
 ## Diagrama UML
 
+<img width="542" height="663" alt="image" src="https://github.com/user-attachments/assets/13cda17b-0652-41b0-97e8-1c1e3542a3a8" />
 
 ---
 
 ## Como executar
 ---
 
-## ▶️ Como executar
+## Como executar
 
 1. Clone o repositório:
 ```bash
