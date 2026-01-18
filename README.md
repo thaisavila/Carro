@@ -3,8 +3,6 @@
 Este repositório contém um projeto em Python desenvolvido para praticar **Programação Orientada a Objetos (POO)**, nos conceitos de: **herança** e **polimorfismo**.
 
 ## Diagrama UML
-oi 
-<img width="860" height="626" alt="image" src="https://github.com/user-attachments/assets/478f38af-6c54-4e05-b89d-c49de4f65557" />
 
 <img width="542" height="663" alt="image" src="https://github.com/user-attachments/assets/13cda17b-0652-41b0-97e8-1c1e3542a3a8" />
 
